@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChristmasTreeTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-01-17T09:40:12" hostname="Anjas-Air-2.fritz.box" time="0.078">
+  <properties/>
+  <testcase name="christmasTree_help" classname="ChristmasTreeTest" time="0.009"/>
+  <testcase name="christmasTree_unbekannte_Option" classname="ChristmasTreeTest" time="0.01"/>
+  <testcase name="christmasTree_8_with_15_candles" classname="ChristmasTreeTest" time="0.003"/>
+  <testcase name="christmasTree_5_with_frame_z" classname="ChristmasTreeTest" time="0.001"/>
+  <testcase name="christmasTree_8_with_20_candles" classname="ChristmasTreeTest" time="0.002"/>
+  <testcase name="christmasTree_7_with_clone_5" classname="ChristmasTreeTest" time="0.001"/>
+  <testcase name="christmasTree_13_with_20_candles" classname="ChristmasTreeTest" time="0.005"/>
+  <testcase name="christmasTree_13_with_frame_o" classname="ChristmasTreeTest" time="0.001"/>
+  <testcase name="christmasTree_0" classname="ChristmasTreeTest" time="0.003"/>
+  <testcase name="christmasTree_1" classname="ChristmasTreeTest" time="0.002"/>
+  <testcase name="christmasTree_2" classname="ChristmasTreeTest" time="0.001"/>
+  <testcase name="christmasTree_15_with_clone_3" classname="ChristmasTreeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
